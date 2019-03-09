@@ -1,0 +1,9 @@
+Problem:
+    type: object
+    properties:
+      error_code:
+        type: string
+        example: "NOT_FOUND"
+      message:
+        type: string
+        example: "Error description"
